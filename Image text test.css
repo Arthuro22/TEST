@@ -3,12 +3,7 @@
     margin: 0;
 
 }
-body{ 
-    width: 100%;
-    height: auto;
-    
-    background-color: #ffffff;
-}
+
     .content-wrapper {
         width: 80%;
         margin: 4% 10% 5% 10%;
